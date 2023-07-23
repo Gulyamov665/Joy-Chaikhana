@@ -10,6 +10,7 @@ button {
   margin: 0 auto;
   padding: 0 10px;
 }
+
 @media (max-width: 1024px) {
   .custom {
     width: 600px;

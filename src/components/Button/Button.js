@@ -6,9 +6,7 @@ export default function Button(props) {
     <div className={styles.centr}>
       <div className={styles.parent}>
         <div className={styles.div1}>
-          <a className={styles.text_menu} href="#">
-            {props.title}
-          </a>
+          <a className={styles.text_menu}>{props.title}</a>
         </div>
       </div>
     </div>
